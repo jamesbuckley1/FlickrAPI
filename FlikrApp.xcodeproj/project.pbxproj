@@ -1,0 +1,588 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1AD3C7432926EF0F00BB0C60 /* FlikrAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AD3C7422926EF0F00BB0C60 /* FlikrAppApp.swift */; };
+		1AD3C7452926EF0F00BB0C60 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AD3C7442926EF0F00BB0C60 /* ContentView.swift */; };
+		1AD3C7472926EF1200BB0C60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1AD3C7462926EF1200BB0C60 /* Assets.xcassets */; };
+		1AD3C74A2926EF1200BB0C60 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1AD3C7492926EF1200BB0C60 /* Preview Assets.xcassets */; };
+		1AD3C7542926EF1200BB0C60 /* FlikrAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AD3C7532926EF1200BB0C60 /* FlikrAppTests.swift */; };
+		1AD3C75E2926EF1200BB0C60 /* FlikrAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AD3C75D2926EF1200BB0C60 /* FlikrAppUITests.swift */; };
+		1AD3C7602926EF1200BB0C60 /* FlikrAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AD3C75F2926EF1200BB0C60 /* FlikrAppUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		1AD3C7502926EF1200BB0C60 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1AD3C7372926EF0F00BB0C60 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1AD3C73E2926EF0F00BB0C60;
+			remoteInfo = FlikrApp;
+		};
+		1AD3C75A2926EF1200BB0C60 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1AD3C7372926EF0F00BB0C60 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1AD3C73E2926EF0F00BB0C60;
+			remoteInfo = FlikrApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1AD3C73F2926EF0F00BB0C60 /* FlikrApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlikrApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1AD3C7422926EF0F00BB0C60 /* FlikrAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlikrAppApp.swift; sourceTree = "<group>"; };
+		1AD3C7442926EF0F00BB0C60 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		1AD3C7462926EF1200BB0C60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		1AD3C7492926EF1200BB0C60 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1AD3C74F2926EF1200BB0C60 /* FlikrAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlikrAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1AD3C7532926EF1200BB0C60 /* FlikrAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlikrAppTests.swift; sourceTree = "<group>"; };
+		1AD3C7592926EF1200BB0C60 /* FlikrAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlikrAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1AD3C75D2926EF1200BB0C60 /* FlikrAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlikrAppUITests.swift; sourceTree = "<group>"; };
+		1AD3C75F2926EF1200BB0C60 /* FlikrAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlikrAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1AD3C73C2926EF0F00BB0C60 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1AD3C74C2926EF1200BB0C60 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1AD3C7562926EF1200BB0C60 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1AD3C7362926EF0F00BB0C60 = {
+			isa = PBXGroup;
+			children = (
+				1AD3C7412926EF0F00BB0C60 /* FlikrApp */,
+				1AD3C7522926EF1200BB0C60 /* FlikrAppTests */,
+				1AD3C75C2926EF1200BB0C60 /* FlikrAppUITests */,
+				1AD3C7402926EF0F00BB0C60 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1AD3C7402926EF0F00BB0C60 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1AD3C73F2926EF0F00BB0C60 /* FlikrApp.app */,
+				1AD3C74F2926EF1200BB0C60 /* FlikrAppTests.xctest */,
+				1AD3C7592926EF1200BB0C60 /* FlikrAppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1AD3C7412926EF0F00BB0C60 /* FlikrApp */ = {
+			isa = PBXGroup;
+			children = (
+				1AD3C7422926EF0F00BB0C60 /* FlikrAppApp.swift */,
+				1AD3C7442926EF0F00BB0C60 /* ContentView.swift */,
+				1AD3C7462926EF1200BB0C60 /* Assets.xcassets */,
+				1AD3C7482926EF1200BB0C60 /* Preview Content */,
+			);
+			path = FlikrApp;
+			sourceTree = "<group>";
+		};
+		1AD3C7482926EF1200BB0C60 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				1AD3C7492926EF1200BB0C60 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		1AD3C7522926EF1200BB0C60 /* FlikrAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				1AD3C7532926EF1200BB0C60 /* FlikrAppTests.swift */,
+			);
+			path = FlikrAppTests;
+			sourceTree = "<group>";
+		};
+		1AD3C75C2926EF1200BB0C60 /* FlikrAppUITests */ = {
+			isa = PBXGroup;
+			children = (
+				1AD3C75D2926EF1200BB0C60 /* FlikrAppUITests.swift */,
+				1AD3C75F2926EF1200BB0C60 /* FlikrAppUITestsLaunchTests.swift */,
+			);
+			path = FlikrAppUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1AD3C73E2926EF0F00BB0C60 /* FlikrApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1AD3C7632926EF1200BB0C60 /* Build configuration list for PBXNativeTarget "FlikrApp" */;
+			buildPhases = (
+				1AD3C73B2926EF0F00BB0C60 /* Sources */,
+				1AD3C73C2926EF0F00BB0C60 /* Frameworks */,
+				1AD3C73D2926EF0F00BB0C60 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FlikrApp;
+			productName = FlikrApp;
+			productReference = 1AD3C73F2926EF0F00BB0C60 /* FlikrApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		1AD3C74E2926EF1200BB0C60 /* FlikrAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1AD3C7662926EF1200BB0C60 /* Build configuration list for PBXNativeTarget "FlikrAppTests" */;
+			buildPhases = (
+				1AD3C74B2926EF1200BB0C60 /* Sources */,
+				1AD3C74C2926EF1200BB0C60 /* Frameworks */,
+				1AD3C74D2926EF1200BB0C60 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1AD3C7512926EF1200BB0C60 /* PBXTargetDependency */,
+			);
+			name = FlikrAppTests;
+			productName = FlikrAppTests;
+			productReference = 1AD3C74F2926EF1200BB0C60 /* FlikrAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		1AD3C7582926EF1200BB0C60 /* FlikrAppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1AD3C7692926EF1200BB0C60 /* Build configuration list for PBXNativeTarget "FlikrAppUITests" */;
+			buildPhases = (
+				1AD3C7552926EF1200BB0C60 /* Sources */,
+				1AD3C7562926EF1200BB0C60 /* Frameworks */,
+				1AD3C7572926EF1200BB0C60 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1AD3C75B2926EF1200BB0C60 /* PBXTargetDependency */,
+			);
+			name = FlikrAppUITests;
+			productName = FlikrAppUITests;
+			productReference = 1AD3C7592926EF1200BB0C60 /* FlikrAppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1AD3C7372926EF0F00BB0C60 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1410;
+				LastUpgradeCheck = 1410;
+				TargetAttributes = {
+					1AD3C73E2926EF0F00BB0C60 = {
+						CreatedOnToolsVersion = 14.1;
+					};
+					1AD3C74E2926EF1200BB0C60 = {
+						CreatedOnToolsVersion = 14.1;
+						TestTargetID = 1AD3C73E2926EF0F00BB0C60;
+					};
+					1AD3C7582926EF1200BB0C60 = {
+						CreatedOnToolsVersion = 14.1;
+						TestTargetID = 1AD3C73E2926EF0F00BB0C60;
+					};
+				};
+			};
+			buildConfigurationList = 1AD3C73A2926EF0F00BB0C60 /* Build configuration list for PBXProject "FlikrApp" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 1AD3C7362926EF0F00BB0C60;
+			productRefGroup = 1AD3C7402926EF0F00BB0C60 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1AD3C73E2926EF0F00BB0C60 /* FlikrApp */,
+				1AD3C74E2926EF1200BB0C60 /* FlikrAppTests */,
+				1AD3C7582926EF1200BB0C60 /* FlikrAppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1AD3C73D2926EF0F00BB0C60 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1AD3C74A2926EF1200BB0C60 /* Preview Assets.xcassets in Resources */,
+				1AD3C7472926EF1200BB0C60 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1AD3C74D2926EF1200BB0C60 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1AD3C7572926EF1200BB0C60 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1AD3C73B2926EF0F00BB0C60 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1AD3C7452926EF0F00BB0C60 /* ContentView.swift in Sources */,
+				1AD3C7432926EF0F00BB0C60 /* FlikrAppApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1AD3C74B2926EF1200BB0C60 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1AD3C7542926EF1200BB0C60 /* FlikrAppTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1AD3C7552926EF1200BB0C60 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1AD3C7602926EF1200BB0C60 /* FlikrAppUITestsLaunchTests.swift in Sources */,
+				1AD3C75E2926EF1200BB0C60 /* FlikrAppUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		1AD3C7512926EF1200BB0C60 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1AD3C73E2926EF0F00BB0C60 /* FlikrApp */;
+			targetProxy = 1AD3C7502926EF1200BB0C60 /* PBXContainerItemProxy */;
+		};
+		1AD3C75B2926EF1200BB0C60 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1AD3C73E2926EF0F00BB0C60 /* FlikrApp */;
+			targetProxy = 1AD3C75A2926EF1200BB0C60 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1AD3C7612926EF1200BB0C60 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		1AD3C7622926EF1200BB0C60 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1AD3C7642926EF1200BB0C60 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"FlikrApp/Preview Content\"";
+				DEVELOPMENT_TEAM = 8Y3GD7A447;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jb.FlikrApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		1AD3C7652926EF1200BB0C60 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"FlikrApp/Preview Content\"";
+				DEVELOPMENT_TEAM = 8Y3GD7A447;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jb.FlikrApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		1AD3C7672926EF1200BB0C60 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8Y3GD7A447;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jb.FlikrAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FlikrApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FlikrApp";
+			};
+			name = Debug;
+		};
+		1AD3C7682926EF1200BB0C60 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8Y3GD7A447;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jb.FlikrAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FlikrApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FlikrApp";
+			};
+			name = Release;
+		};
+		1AD3C76A2926EF1200BB0C60 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8Y3GD7A447;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jb.FlikrAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = FlikrApp;
+			};
+			name = Debug;
+		};
+		1AD3C76B2926EF1200BB0C60 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8Y3GD7A447;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jb.FlikrAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = FlikrApp;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1AD3C73A2926EF0F00BB0C60 /* Build configuration list for PBXProject "FlikrApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1AD3C7612926EF1200BB0C60 /* Debug */,
+				1AD3C7622926EF1200BB0C60 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1AD3C7632926EF1200BB0C60 /* Build configuration list for PBXNativeTarget "FlikrApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1AD3C7642926EF1200BB0C60 /* Debug */,
+				1AD3C7652926EF1200BB0C60 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1AD3C7662926EF1200BB0C60 /* Build configuration list for PBXNativeTarget "FlikrAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1AD3C7672926EF1200BB0C60 /* Debug */,
+				1AD3C7682926EF1200BB0C60 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1AD3C7692926EF1200BB0C60 /* Build configuration list for PBXNativeTarget "FlikrAppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1AD3C76A2926EF1200BB0C60 /* Debug */,
+				1AD3C76B2926EF1200BB0C60 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1AD3C7372926EF0F00BB0C60 /* Project object */;
+}
