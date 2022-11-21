@@ -22,7 +22,7 @@ struct UserFetcher {
             DispatchQueue.main.async {
                 switch result {
                 case.failure(let error):
-                    print("ERROR")
+                    print("Error fetching user \(error)")
                 case .success(let response):
                     guard let user = response.user else { return }
                     print("Success - got user")
