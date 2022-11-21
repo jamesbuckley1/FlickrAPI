@@ -7,7 +7,7 @@
 
 import XCTest
 
-final class FlikrAppUITests: XCTestCase {
+final class FlickrChallengeUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
@@ -37,5 +37,14 @@ final class FlikrAppUITests: XCTestCase {
                 XCUIApplication().launch()
             }
         }
+    }
+    
+    func testTryAgain() {
+        let app = XCUIApplication()
+        app.launch()
+
+        let tryAgainButton = app.buttons["tryAgainButton"]
+        
+        XCTAssertTrue(tryAgainButton.waitForExistence(timeout: 20))
     }
 }

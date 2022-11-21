@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "269C3DD3-0801-4C9C-A8CE-E26417521E60"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B9AEB2D-B187-4863-82EA-E0A939459638"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "fetch(_:urlParameters:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00BA8E2D-B33B-4531-ADE2-F870DF2EE7E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetch(_:urlParameters:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F67F803A-8FD8-41FB-ABCE-E92B5DA49470"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "fetchRecentPhotos()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D14D37C8-0CD4-42D5-9DC6-31ED4C052FDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "PhotoFetcher"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11027D56-04B1-4789-8560-E294922D3B6E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "fetchRecentPhotos()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1E2F4E0-DBE5-4180-BA6F-475027F161A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "fetchRecentPhotos()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DE13CCB-45AC-4F12-9637-93F4505A270B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetch(_:urlParameters:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FE05392-FBDD-4AC4-BB17-9ED71261B65D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetch(_:urlParameters:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90C8D20E-5B23-4247-9C63-55D0954E4E8E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetch(_:urlParameters:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "90C8D20E-5B23-4247-9C63-55D0954E4E8E - 194838535693b6a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlikrApp.APIService.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: &#x3c4;_0_0.Type, urlParameters: Swift.Array&lt;Foundation.URLQueryItem&gt;, completion: (Swift.Result&lt;&#x3c4;_0_0, FlikrApp.APIError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FlikrApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlikrApp/FlikrApp/Networking/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "904">
+               </Location>
+               <Location
+                  uuid = "90C8D20E-5B23-4247-9C63-55D0954E4E8E - 194838535693b6a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlikrApp.APIService.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: &#x3c4;_0_0.Type, urlParameters: Swift.Array&lt;Foundation.URLQueryItem&gt;, completion: (Swift.Result&lt;&#x3c4;_0_0, FlikrApp.APIError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FlikrApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlikrApp/FlikrApp/Networking/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "1028">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AEE026B-C787-41B7-B137-63084A7E99B6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "fetch(_:urlParameters:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7AEE026B-C787-41B7-B137-63084A7E99B6 - 194838535693b793"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlikrApp.APIService.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: &#x3c4;_0_0.Type, urlParameters: Swift.Array&lt;Foundation.URLQueryItem&gt;, completion: (Swift.Result&lt;&#x3c4;_0_0, FlikrApp.APIError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FlikrApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlikrApp/FlikrApp/Networking/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1088">
+               </Location>
+               <Location
+                  uuid = "7AEE026B-C787-41B7-B137-63084A7E99B6 - 10df479a686854a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FlikrApp.APIService.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: &#x3c4;_0_0.Type, urlParameters: Swift.Array&lt;Foundation.URLQueryItem&gt;, completion: (Swift.Result&lt;&#x3c4;_0_0, FlikrApp.APIError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FlikrApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlikrApp/FlikrApp/Networking/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "659">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48A79CBF-C050-4912-A9C3-23965CE0A379"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/UserFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "buildPhotoURL(forUser:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "580A81A8-AC2A-4576-8CD1-5FE5628924F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/View/PhotoRow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "580A81A8-AC2A-4576-8CD1-5FE5628924F1 - 87be3508ee063063"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.EdgeInsets) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in FlikrApp.PhotoRow.body.getter : some"
+                  moduleName = "FlikrApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlikrApp/FlikrApp/View/PhotoRow.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "2161">
+               </Location>
+               <Location
+                  uuid = "580A81A8-AC2A-4576-8CD1-5FE5628924F1 - 13237454c8953fdd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SwiftUI.AsyncImagePhase) -&gt; SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.clipped(antialiased: Swift.Bool) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.EdgeInsets) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in FlikrApp.PhotoRow.body.getter : some"
+                  moduleName = "FlikrApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlikrApp/FlikrApp/View/PhotoRow.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "607">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0877842-F32C-48DA-8E68-23828D382455"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fetchRecentPhotos()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01BED75D-6D06-44D0-AA3F-6E5807762C5F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "fetchPhotoInfo(forPhoto:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CC5FE75-A650-4396-A6FD-227113AC37DF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "fetchRecentPhotos()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFA193F5-1731-4C63-AC0C-703D1CCF8EB0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "fetchRecentPhotos()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24632D73-67B2-4090-99BE-3FA8B52C5CFC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "fetchPhotoInfo(forPhoto:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99FC164E-B83C-4F82-B931-96F372AA130F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "fetchPhotoInfo(forPhoto:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD88A4E1-1CD7-4824-AC02-5AB4B32EFBF3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/View/PhotoRow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "WrappingHStack"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62EFC888-0AD6-4244-A1CD-D37BE60BFF7B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/UserFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "fetchUser(withID:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DFA2B7F-3CCD-446D-AF5B-32AEE12A95CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/View/PhotoRow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8DFA2B7F-3CCD-446D-AF5B-32AEE12A95CE - 40c3535349f914a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.EdgeInsets) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;FlikrApp.WrappingHStack&lt;FlikrApp.TagContent, &lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0&gt;&gt;)&gt; in FlikrApp.PhotoRow.body.getter : some"
+                  moduleName = "FlikrApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlikrApp/FlikrApp/View/PhotoRow.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "1073">
+               </Location>
+               <Location
+                  uuid = "8DFA2B7F-3CCD-446D-AF5B-32AEE12A95CE - 40c3535349f914a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.EdgeInsets) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;FlikrApp.WrappingHStack&lt;FlikrApp.TagContent, &lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0&gt;&gt;)&gt; in FlikrApp.PhotoRow.body.getter : some"
+                  moduleName = "FlikrApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlikrApp/FlikrApp/View/PhotoRow.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "2807">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC0397E6-0EEF-4372-8CFF-28B5E48D93C9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/Networking/UserFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetchUser(withID:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5C4B2AF-CAC0-4356-B180-86AC9B44661C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlikrApp/View/PhotoListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F5C4B2AF-CAC0-4356-B180-86AC9B44661C - a0a85ff73b62d5d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;FlikrApp.Photo&gt;, Swift.String, SwiftUI.NavigationLink&lt;FlikrApp.PhotoRow, FlikrApp.PhotoDetailView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.searchable(text: SwiftUI.Binding&lt;Swift.String&gt;, placement: SwiftUI.SearchFieldPlacement, prompt: Swift.Optional&lt;SwiftUI.Text&gt;) -&gt; some&gt;&gt;.0 in FlikrApp.PhotoListView.body.getter : some"
+                  moduleName = "FlikrApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlikrApp/FlikrApp/View/PhotoListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "210">
+               </Location>
+               <Location
+                  uuid = "F5C4B2AF-CAC0-4356-B180-86AC9B44661C - e8ec7a8037c9162d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FlikrApp.Photo) -&gt; SwiftUI.NavigationLink&lt;FlikrApp.PhotoRow, FlikrApp.PhotoDetailView&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;FlikrApp.Photo&gt;, Swift.String, SwiftUI.NavigationLink&lt;FlikrApp.PhotoRow, FlikrApp.PhotoDetailView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.searchable(text: SwiftUI.Binding&lt;Swift.String&gt;, placement: SwiftUI.SearchFieldPlacement, prompt: Swift.Optional&lt;SwiftUI.Text&gt;) -&gt; some&gt;&gt;.0 in FlikrApp.PhotoListView.body.getter : some"
+                  moduleName = "FlikrApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlikrApp/FlikrApp/View/PhotoListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "154">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1E03565-2811-461D-BEC1-404781A7013E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "fetchPhotos(fetchType:user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E766992C-DB65-47B8-9B8E-83E1FFD4E8EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/UserFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchUser(withID:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "127282A8-8151-47CA-8E6D-63D2078C8AFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/UserFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchUser(withID:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FC68DC0-5CD3-49BC-B173-8BB836B1E149"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/UserFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchUser(withID:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0FC68DC0-5CD3-49BC-B173-8BB836B1E149 - 20bfd1946d59bb5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlickrChallenge.UserFetcher.fetchUser(withID: Swift.String, completion: (FlickrChallenge.User) -&gt; ()) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/UserFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "910">
+               </Location>
+               <Location
+                  uuid = "0FC68DC0-5CD3-49BC-B173-8BB836B1E149 - fce4b9733c1ec494"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;FlickrChallenge.UserResponse, FlickrChallenge.APIError&gt;) -&gt; () in FlickrChallenge.UserFetcher.fetchUser(withID: Swift.String, completion: (FlickrChallenge.User) -&gt; ()) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/UserFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "258">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAA99A26-5F76-41B2-80E1-3120EE0C5485"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/UserFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchUser(withID:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FAA99A26-5F76-41B2-80E1-3120EE0C5485 - 7e90627baec0fb23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;FlickrChallenge.UserResponse, FlickrChallenge.APIError&gt;) -&gt; () in FlickrChallenge.UserFetcher.fetchUser(withID: Swift.String, completion: (FlickrChallenge.User) -&gt; ()) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/UserFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "527">
+               </Location>
+               <Location
+                  uuid = "FAA99A26-5F76-41B2-80E1-3120EE0C5485 - 7e90627baec0fb23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;FlickrChallenge.UserResponse, FlickrChallenge.APIError&gt;) -&gt; () in FlickrChallenge.UserFetcher.fetchUser(withID: Swift.String, completion: (FlickrChallenge.User) -&gt; ()) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/UserFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "568">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA4E29D4-A3F9-4B15-82E6-04B92DA29F9A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/UserFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetchUser(withID:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DA4E29D4-A3F9-4B15-82E6-04B92DA29F9A - fce4b9733c1ec494"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;FlickrChallenge.UserResponse, FlickrChallenge.APIError&gt;) -&gt; () in FlickrChallenge.UserFetcher.fetchUser(withID: Swift.String, completion: (FlickrChallenge.User) -&gt; ()) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/UserFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "258">
+               </Location>
+               <Location
+                  uuid = "DA4E29D4-A3F9-4B15-82E6-04B92DA29F9A - 7e90627baec0fba7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;FlickrChallenge.UserResponse, FlickrChallenge.APIError&gt;) -&gt; () in FlickrChallenge.UserFetcher.fetchUser(withID: Swift.String, completion: (FlickrChallenge.User) -&gt; ()) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/UserFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "230">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77BCE92F-8D4D-4111-81C0-E14397E23ACA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetch(_:urlParameters:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "77BCE92F-8D4D-4111-81C0-E14397E23ACA - f90aedf1c4cb2273"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlickrChallenge.APIService.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: &#x3c4;_0_0.Type, urlParameters: Swift.Array&lt;Foundation.URLQueryItem&gt;, completion: (Swift.Result&lt;&#x3c4;_0_0, FlickrChallenge.APIError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1088">
+               </Location>
+               <Location
+                  uuid = "77BCE92F-8D4D-4111-81C0-E14397E23ACA - 7b13e44aa8590500"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FlickrChallenge.APIService.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(_: &#x3c4;_0_0.Type, urlParameters: Swift.Array&lt;Foundation.URLQueryItem&gt;, completion: (Swift.Result&lt;&#x3c4;_0_0, FlickrChallenge.APIError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "659">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65030EBF-8A42-4BEF-AAE2-FF0EE447BE2A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/View/PhotoListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "65030EBF-8A42-4BEF-AAE2-FF0EE447BE2A - daaf41c236a57c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlickrChallenge.PhotoListView.body.getter : some"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/View/PhotoListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "231">
+               </Location>
+               <Location
+                  uuid = "65030EBF-8A42-4BEF-AAE2-FF0EE447BE2A - e9bd4d0881f8ec47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.searchable(text: SwiftUI.Binding&lt;Swift.String&gt;, placement: SwiftUI.SearchFieldPlacement, prompt: Swift.Optional&lt;SwiftUI.Text&gt;) -&gt; some&gt;&gt;.0 in FlickrChallenge.PhotoListView.body.getter : some"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/View/PhotoListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "721A7A4E-E6E1-4280-A8BE-345231CC2A63"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/View/PhotoListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "filteredPhotos"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37693357-6DE2-4820-AA4B-39A9B4FD9F2F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/View/PhotoListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "filteredPhotos"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75325262-87C5-4BD2-B7DE-E011253CFF12"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/View/PhotoListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "filteredPhotos"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "75325262-87C5-4BD2-B7DE-E011253CFF12 - 91417b7e499b8b64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FlickrChallenge.Photo) -&gt; Swift.Bool in FlickrChallenge.PhotoListView.filteredPhotos.getter : Swift.Array&lt;FlickrChallenge.Photo&gt;"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/View/PhotoListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "75325262-87C5-4BD2-B7DE-E011253CFF12 - a751a86783063188"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FlickrChallenge.TagContent) -&gt; Swift.Bool in closure #1 (FlickrChallenge.Photo) -&gt; Swift.Bool in FlickrChallenge.PhotoListView.filteredPhotos.getter : Swift.Array&lt;FlickrChallenge.Photo&gt;"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/View/PhotoListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "58">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2F3D664-E2C1-4900-94EA-AA24143E649E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "fetchPhotos(fetchType:user:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D2F3D664-E2C1-4900-94EA-AA24143E649E - 74acf12ef0fa80bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;FlickrChallenge.RecentPhotoListResponse, FlickrChallenge.APIError&gt;) -&gt; () in FlickrChallenge.PhotoFetcher.fetchPhotos(fetchType: FlickrChallenge.PhotoFetchType, user: Swift.Optional&lt;FlickrChallenge.User&gt;) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/PhotoFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1864">
+               </Location>
+               <Location
+                  uuid = "D2F3D664-E2C1-4900-94EA-AA24143E649E - 3b69056488b49794"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (FlickrChallenge.User) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;FlickrChallenge.RecentPhotoListResponse, FlickrChallenge.APIError&gt;) -&gt; () in FlickrChallenge.PhotoFetcher.fetchPhotos(fetchType: FlickrChallenge.PhotoFetchType, user: Swift.Optional&lt;FlickrChallenge.User&gt;) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/PhotoFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "D2F3D664-E2C1-4900-94EA-AA24143E649E - 96cd8018198c3ac6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;FlickrChallenge.RecentPhotoListResponse, FlickrChallenge.APIError&gt;) -&gt; () in FlickrChallenge.PhotoFetcher.fetchPhotos(fetchType: FlickrChallenge.PhotoFetchType, user: Swift.Optional&lt;FlickrChallenge.User&gt;) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/PhotoFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "70">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22165088-1C2B-4294-BD1D-DFD4149A9EB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchPhotos(fetchType:user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8901F446-DAEA-4A4D-9760-87EE77C2B98F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init(service:fetchType:user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "943346BF-2D1B-4FB3-9CD9-D0B59F8720C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fetchPhotos(fetchType:user:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "943346BF-2D1B-4FB3-9CD9-D0B59F8720C9 - 41340f1547a1d22b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlickrChallenge.PhotoFetcher.fetchPhotos(fetchType: FlickrChallenge.PhotoFetchType, user: Swift.Optional&lt;FlickrChallenge.User&gt;) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/PhotoFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1783">
+               </Location>
+               <Location
+                  uuid = "943346BF-2D1B-4FB3-9CD9-D0B59F8720C9 - 881dc6ec09d3600c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;FlickrChallenge.RecentPhotoListResponse, FlickrChallenge.APIError&gt;) -&gt; () in FlickrChallenge.PhotoFetcher.fetchPhotos(fetchType: FlickrChallenge.PhotoFetchType, user: Swift.Optional&lt;FlickrChallenge.User&gt;) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/PhotoFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "255">
+               </Location>
+               <Location
+                  uuid = "943346BF-2D1B-4FB3-9CD9-D0B59F8720C9 - 74acf12ef0fa810a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;FlickrChallenge.RecentPhotoListResponse, FlickrChallenge.APIError&gt;) -&gt; () in FlickrChallenge.PhotoFetcher.fetchPhotos(fetchType: FlickrChallenge.PhotoFetchType, user: Swift.Optional&lt;FlickrChallenge.User&gt;) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/PhotoFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "521">
+               </Location>
+               <Location
+                  uuid = "943346BF-2D1B-4FB3-9CD9-D0B59F8720C9 - c0d9ec21682c9d70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;FlickrChallenge.RecentPhotoListResponse, FlickrChallenge.APIError&gt;) -&gt; () in FlickrChallenge.PhotoFetcher.fetchPhotos(fetchType: FlickrChallenge.PhotoFetchType, user: Swift.Optional&lt;FlickrChallenge.User&gt;) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/PhotoFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "58">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B21AB7EF-3FF2-4F9F-92AD-1E474D65DB45"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "fetchPhotos(fetchType:user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A74AD936-57A8-4C95-8376-A31861C1A6B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "fetchPhotos(fetchType:user:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A74AD936-57A8-4C95-8376-A31861C1A6B8 - 74acf12ef0fa80d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;FlickrChallenge.RecentPhotoListResponse, FlickrChallenge.APIError&gt;) -&gt; () in FlickrChallenge.PhotoFetcher.fetchPhotos(fetchType: FlickrChallenge.PhotoFetchType, user: Swift.Optional&lt;FlickrChallenge.User&gt;) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/PhotoFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1234">
+               </Location>
+               <Location
+                  uuid = "A74AD936-57A8-4C95-8376-A31861C1A6B8 - 74acf12ef0fa80d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;FlickrChallenge.RecentPhotoListResponse, FlickrChallenge.APIError&gt;) -&gt; () in FlickrChallenge.PhotoFetcher.fetchPhotos(fetchType: FlickrChallenge.PhotoFetchType, user: Swift.Optional&lt;FlickrChallenge.User&gt;) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/PhotoFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1291">
+               </Location>
+               <Location
+                  uuid = "A74AD936-57A8-4C95-8376-A31861C1A6B8 - 74acf12ef0fa80d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;FlickrChallenge.RecentPhotoListResponse, FlickrChallenge.APIError&gt;) -&gt; () in FlickrChallenge.PhotoFetcher.fetchPhotos(fetchType: FlickrChallenge.PhotoFetchType, user: Swift.Optional&lt;FlickrChallenge.User&gt;) -&gt; ()"
+                  moduleName = "FlickrChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/james/Desktop/Work/Code%20Challenge/FlickrChallenge/FlickrChallenge/Networking/PhotoFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "1315">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34522818-9ED8-45D5-AFF3-D5B9E4B48736"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "fetchPhotos(fetchType:user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCFFF488-5468-4AC1-896B-41312F1AF17D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "fetchPhotos(fetchType:user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CA8E998-540E-4CD8-82D4-8FBEF79737C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "fetchPhotos(fetchType:user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B94D6450-E9E2-4B69-84A2-239D6C8F26C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/UserFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchUser(withID:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD1E35AF-908F-4DA8-AB3D-EFCD107BA82B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fetchPhotos(fetchType:user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DADA3E7-CD08-498F-B08C-3ADDB942C48C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/View/PhotoDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init(photo:photoListType:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFD98DE4-1AAD-45F3-908D-1AE3D2D34C32"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/View/PhotoRow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF4EB3F7-3CA0-43BD-9C3D-8D233AB1A94E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "fetchPhotos(fetchType:user:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA6B7FFB-9816-4622-AF77-DCCC9A828370"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrChallenge/Networking/PhotoFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "fetchPhotoInfo(forPhoto:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

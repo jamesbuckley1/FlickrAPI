@@ -1,14 +1,15 @@
 //
-//  FlikrAppTests.swift
-//  FlikrAppTests
+//  FlickrChallengeTests.swift
+//  FlickrChallengeTests
 //
 //  Created by James Buckley on 17/11/2022.
 //
 
 import XCTest
-@testable import FlikrApp
+import Combine
+@testable import FlickrChallenge
 
-final class FlikrAppTests: XCTestCase {
+final class FlickrChallengeTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
@@ -16,6 +17,10 @@ final class FlikrAppTests: XCTestCase {
 
     override func tearDownWithError() throws {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
+    }
+    
+    override func tearDown() {
+        subscriptions = []
     }
 
     func testExample() throws {
@@ -31,6 +36,23 @@ final class FlikrAppTests: XCTestCase {
         self.measure {
             // Put the code you want to measure the time of here.
         }
+    }
+    var subscriptions = Set<AnyCancellable>()
+    
+    func testGettingPhotosSuccess() {
+        
+        let fetcher = PhotoFetcher(service: APIService(), fetchType: .recentPhotos)
+        
+        let promise = expectation(description: "Getting photos")
+        
+        fetcher.$photos.sink { photos in
+            if photos.count > 0 {
+                promise.fulfill()
+            }
+        }.store(in: &subscriptions)
+        
+       
+        wait(for: [promise], timeout: 10)
     }
 
 }

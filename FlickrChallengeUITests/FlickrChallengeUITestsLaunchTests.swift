@@ -7,7 +7,7 @@
 
 import XCTest
 
-final class FlikrAppUITestsLaunchTests: XCTestCase {
+final class FlickrChallengeUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
